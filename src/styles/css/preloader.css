@@ -1,0 +1,64 @@
+.triangle-top-left{
+    animation: ttl 2s ease-in-out infinite;
+    animation-delay: 0s;
+}
+.triangle-bottom-left{
+    animation: tbl 1.6s ease-in-out infinite;
+    animation-delay: 0.1s;
+}
+ .triangle-bottom-right{
+    animation: tbr 1.7s ease-in-out  infinite;
+    animation-delay: 0.1s;
+}
+
+.triangle-top-right{
+    animation: ttr 1.8s ease-in-out  infinite;
+    animation-delay: 0s;
+} 
+
+@keyframes ttl  {
+    0%{
+        fill: #77E26F;
+    }
+    50%{
+        fill: rgb(201, 201, 201);
+    }
+    100%{
+        fill: #6CEFCE;
+    }
+}
+
+@keyframes tbl  {
+    0%{
+        fill: #77E26F;
+    }
+    50%{
+        fill: rgb(201, 201, 201);
+    }
+    100%{
+        fill: #6CEFCE;
+    }
+}
+
+@keyframes tbr  {
+    0%{
+        fill: #77E26F;
+    }
+    50%{
+        fill: rgb(201, 201, 201);
+    }
+    100%{
+        fill: #6CEFCE;
+    }
+}
+@keyframes ttr  {
+    0%{
+        fill: #77E26F;
+    }
+    50%{
+        fill: rgb(201, 201, 201);
+    }
+    100%{
+        fill: #6CEFCE;
+    }
+}
