@@ -7,8 +7,8 @@ const Loader:React.FC = () => {
         <PreloaerContainer>
             <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="90.149"
-                height="86.377"
+                width="250.149"
+                height="150.377"
                 viewBox="0 0 87.149 76.377"
             >
                 <defs>
