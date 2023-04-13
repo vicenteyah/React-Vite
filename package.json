@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/vicenteyah/React-Vite",
+  "homepage": "https://github.com/vicenteyah/React-Vite.git",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc && vite build",
